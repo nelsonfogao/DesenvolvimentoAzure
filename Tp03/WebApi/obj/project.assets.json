@@ -7415,11 +7415,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NelsonHome\\source\\repos\\Tp03\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\NelsonHome\\Desktop\\at\\DesenvolvimentoAzure\\Tp03\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\NelsonHome\\source\\repos\\Tp03\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\NelsonHome\\Desktop\\at\\DesenvolvimentoAzure\\Tp03\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\NelsonHome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NelsonHome\\source\\repos\\Tp03\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\NelsonHome\\Desktop\\at\\DesenvolvimentoAzure\\Tp03\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7439,8 +7439,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\NelsonHome\\source\\repos\\Tp03\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\NelsonHome\\source\\repos\\Tp03\\Domain\\Domain.csproj"
+            "C:\\Users\\NelsonHome\\Desktop\\at\\DesenvolvimentoAzure\\Tp03\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\NelsonHome\\Desktop\\at\\DesenvolvimentoAzure\\Tp03\\Domain\\Domain.csproj"
             }
           }
         }
